@@ -106,7 +106,7 @@ function ProjectCard({ project, onOpen }: { project: Project; onOpen: () => void
       </div>
 
       <div className="mt-6">
-        <MiniBars data={project.trend} />
+        <MiniBars values={project.trend} />
 
         <div className="mt-4 flex flex-wrap items-center justify-between gap-2 border-t border-border/70 pt-4">
           <div className="flex flex-wrap items-center gap-2">
