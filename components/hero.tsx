@@ -74,7 +74,7 @@ export function Hero() {
           </a>
         ))}
         <a
-          href="/resume.pdf"
+          href="/Anukram_Sachan_Data_Analytics_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 rounded-full bg-emerald-500 px-5 py-2.5 text-sm font-medium text-zinc-950 transition hover:bg-emerald-400"
